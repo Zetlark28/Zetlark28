@@ -94,7 +94,7 @@ Backend Java & AWS projects — medium to long term.
 ## Contact
 
 - LinkedIn: [clark-ezpeleta](https://www.linkedin.com/in/clark-ezpeleta/)
-- Website: [clarkezpeleta.it] (https://clarkezpeleta.it)
+- Website: [clarkezpeleta.it](https://clarkezpeleta.it)
 <div align="center">
 
 ---

@@ -1,115 +1,98 @@
-**Backend & Cloud Developer**
+<div align="center">
 
-I design and build robust backend systems and cloud architectures for startups and SMEs.
+# Clark Ezpeleta  
+### Backend & Cloud Engineer
 
-Java · Spring Boot · Microservices · AWS
+<p>Java · Spring Boot · Microservices · AWS</p>
 
----
+I build robust, event-driven backend systems and cloud-native architectures for startups and SMEs.
 
-## About Me
+<p>
+  <a href="https://clarkezpeleta.it">Website</a> ·
+  <a href="https://www.linkedin.com/in/YOUR-LINK/">LinkedIn</a>
+</p>
 
-Backend-focused engineer specialized in building modular, scalable and event-driven systems.
 
-I work primarily with Java and Spring Boot, designing REST APIs, asynchronous workflows and cloud-native architectures deployed on AWS.
-
-My approach is pragmatic:
-- Clean architecture
-- Clear service boundaries
-- Idempotent message processing
-- Resilient integrations
-- Production-oriented thinking
+</div>
 
 ---
 
-## Tech Stack
+## 🧠 About
 
-**Backend**
-- Java 17+
-- Spring Boot 3+
-- JPA / Hibernate
-- REST APIs
-- Maven
+Backend-focused engineer specialized in:
 
-**Cloud & DevOps**
-- AWS (ECS, RDS, S3, IAM, SQS, SNS)
-- Docker
-- CI/CD
-- Structured logging & monitoring
-- Terraform
+- REST API design
+- Event-driven architectures
+- Microservices systems
+- Cloud-native deployments on AWS
 
-**Database**
-- PostgreSQL
-- MySQL
-- MongoDB
-- Oracle DB
+My approach is pragmatic and production-oriented:
+clean architecture, resilient integrations, idempotent consumers, and clear service boundaries.
 
 ---
 
-## Architecture & Systems Focus
+## 🚀 Currently Building
 
-I am particularly focused on:
-
-- Event-driven architecture
-- Outbox / Inbox pattern
-- Saga (orchestration vs choreography)
-- Idempotent consumers
-- Domain-oriented microservices
-- Scalable backend systems for growing businesses
-
-The repositories here are structured as real-world architecture labs rather than toy examples.
+- Expanding **Quote Flow Platform** with advanced workflow orchestration
+- Deepening AWS architecture patterns (ECS, messaging, cost-aware design)
+- Exploring distributed system reliability strategies
+- Designing reusable backend templates
 
 ---
 
-## Currently Building
+## 🏗 Architecture Focus
 
-- Expanding the **Quote Flow Platform** with advanced workflow handling  
-- Deepening AWS architecture patterns (ECS, messaging, cost-aware design)  
-- Studying distributed system reliability patterns  
-- Designing modular backend templates for faster project bootstrap  
+- Outbox / Inbox pattern  
+- Saga (orchestration vs choreography)  
+- Domain-driven microservices  
+- Idempotent message processing  
+- Async communication with Kafka / SQS  
+
+Most repositories here are structured as real-world labs, not toy demos.
 
 ---
 
-## Selected Project
+## 🌟 Selected Project
 
 ### Quote Flow Platform  
 _Event-driven quote lifecycle system_
 
-A modular backend system that manages the lifecycle of business quotes through asynchronous workflows.
+A modular backend system that manages quote approvals via asynchronous workflows.
 
-**Architecture highlights:**
+**Highlights:**
 
 - Microservice separation (Quote / Approval)
-- Kafka-based asynchronous communication
+- Kafka-based async communication
 - Outbox pattern implementation
 - Idempotent event consumers
-- PostgreSQL with transactional consistency
-- Clear API boundaries for frontend integration
+- PostgreSQL transactional consistency
+- Clean API boundaries
 
-This project reflects how I approach real systems:
-design first, then implementation.
-
----
-
-## GitHub Stats
-
-![Clark's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zetlark28&show_icons=true&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zetlark28&layout=compact&hide_border=true)
+Design first. Implementation second.
 
 ---
 
-## Availability
+## 🛠️​ Tech Stack
+
+
+**Backend:** Java 17+, Spring Boot 3+, Spring Batch, JPA/Hibernate, Maven, Kafka, RabbitMQ
+
+**Cloud:** AWS (ECS, RDS, S3, IAM, SQS, SNS), Docker, CI/CD, Terraform, Jenkins
+
+**DB:** PostgreSQL, MySQL, MongoDB, Db2, OracleDB  
+
+---
+
+## 🤝 Availability
 
 Available for freelance collaborations (VAT registered)  
 Backend Java & AWS projects — medium to long term.
 
 ---
 
-## Contact
 
-- LinkedIn: [clark-ezpeleta](https://www.linkedin.com/in/clark-ezpeleta/)
-- Website: [clarkezpeleta.it] (https://clarkezpeleta.it)
+<div align="center">
 
----
+> I build backend systems designed to scale, evolve, and last.
 
-> I build backend systems that are designed to scale, evolve, and last.
+</div>

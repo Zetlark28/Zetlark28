@@ -83,6 +83,15 @@ Design first. Implementation second.
 
 ---
 
+
+## 📊​​ Git Stats
+  
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Zetlark28&show_icons=true&locale=en&layout=compact" alt="Zetlark28" width="340" /></p> 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Zetlark28&show_icons=true&locale=en" alt="Zetlark28" width="400" /></p>
+
+---
+
 ## 🤝 Availability
 
 Available for freelance collaborations (VAT registered)  

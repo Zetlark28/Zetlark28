@@ -9,7 +9,7 @@ I build robust, event-driven backend systems and cloud-native architectures for 
 
 <p>
   <a href="https://clarkezpeleta.it">Website</a> ·
-  <a href="https://www.linkedin.com/in/YOUR-LINK/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/clark-ezpeleta/">LinkedIn</a>
 </p>
 
 
@@ -90,6 +90,14 @@ Backend Java & AWS projects — medium to long term.
 
 ---
 
+
+## Contact
+
+- LinkedIn: [clark-ezpeleta](https://www.linkedin.com/in/clark-ezpeleta/)
+- Website: [clarkezpeleta.it] (https://clarkezpeleta.it)
+<div align="center">
+
+---
 
 <div align="center">
 
